@@ -5,6 +5,9 @@ This is a symfony helper to load contents on asynchronous in the view.
 jQuery
 
 # Usage
-+ Put the AsyncComponentHelper.php in your symfony helper directory.
+Put the AsyncComponentHelper.php in your symfony helper directory.
 
+# License
+
+The MIT License.
 
